@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<body>
+    <div class="main-content">
+    <h1 class="registration-heading">Please Register Here</h1>
+    <div class="registration-form">
+        <label>Username</label>&nbsp;&nbsp;&nbsp;<input id="user" type="text" [(ngModel)]='username'><br><br>
+        <label>Password</label>&nbsp;&nbsp;&nbsp;<input id="pass" type="password" [(ngModel)]='password'><br><br>
+        <label>Name</label>&nbsp;&nbsp;&nbsp;<input id="name" type="text" [(ngModel)]='name'><br><br>
+        <label>Age</label>&nbsp;&nbsp;&nbsp;<input id="age" type="number" [(ngModel)]='age'><br><br>
+        <label>Gender</label>&nbsp;&nbsp;&nbsp;<input id="gender" type="text" [(ngModel)]='gender'><br><br>
+        <label>Phone No</label>&nbsp;&nbsp;&nbsp;<input id="phoneno" type="number" [(ngModel)]='phoneno'><br><br>
+    </div>
+
+    <button id="registrationButton" (click)="register()">Register</button>
+    </div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+.main-content{
+    text-align: center;
+    font-size: 25px;
+    color: crimson;
+    background-color: blanchedalmond;
+    padding-top: 20px;
+    padding-bottom: 340px;
+}
+#login-heading{
+    color: red;
+    text-decoration: underline;
+}
+#loginButton{
+    color: white;
+    padding: 15px;
+    border-radius: 50px;
+    background-color: rgb(211, 27, 14);
+    margin-top: 30px;
+    margin-bottom: 50px;
+}

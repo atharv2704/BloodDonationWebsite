@@ -1,0 +1,44 @@
+.registration-form{
+    margin-left: 650px;
+    color:crimson;
+    font-size: 22px;
+}
+.main-content{
+    background-color:blanchedalmond;
+    padding-top: 20px;
+    padding-bottom: 150px;
+}
+.registration-heading{
+    margin-left: 625px;
+    font-size: 40px;
+    text-decoration: underline;
+    color: red;
+    padding-top: 20px;
+}
+
+#registrationButton{
+    margin-top: 50px;
+    margin-left: 750px;
+    color: white;
+    padding: 15px;
+    border-radius: 50px;
+    background-color: rgb(211, 27, 14);
+    margin-bottom: 50px;
+
+}
+
+#pass{
+    margin-left: 6px;
+}
+
+#name{
+    margin-left: 37px;
+}
+
+#age{
+    margin-left: 52px;
+}
+
+#gender{
+    margin-left: 25px;
+}

@@ -1,0 +1,31 @@
+.main-content{
+    align-content: center;
+    text-align: center;
+    background-color: blanchedalmond;
+    padding-bottom: 450px;
+    padding-top: 30px;
+}
+#answer-heading{
+    margin-left: 40px;
+    text-decoration: underline;
+}
+th{
+    font-size: 20px;
+}
+#tableButton{
+    background-color: azure;
+    border-radius: 15px;
+    padding: 10px;
+    color: red;
+}
+.my-table{
+    margin-left: 600px;
+}
+#timeButton{
+    color: white;
+    padding: 15px;
+    border-radius: 50px;
+    background-color: rgb(211, 27, 14);
+    margin-top: 30px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,19 @@
+.content{
+    text-align: center;
+    background-color: blanchedalmond;
+    padding-top: 30px;
+    padding-bottom: 170px;
+}
+#thanks-heading{
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.final-content{
+    font-size: 25px;
+    color: red;
+}
+.tagline{
+    margin-top: 200px;
+    font-size: 50px;
+}
